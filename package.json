@@ -1,0 +1,15 @@
+{
+  "name": "witness-client",
+  "version": "0.0.1",
+  "description": "Api client to connect to witness api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coinative",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.0",
+    "axon-rpc": "0.0.3"
+  }
+}
